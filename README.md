@@ -10,7 +10,7 @@
 
 ### 🕥10:30 -11:30<br>
 - Anchor -Taranpreet Kaur <br>
-WELCOMED ALL THE FRESHERS 
+WELCOMED ALL THE FRESHERS🌟 
 - Told about GNDEC legacy
 - Opened since 1956 , celebrating 70th Golden Jubly.
 - Nankana Sahib education trust 1953
@@ -32,7 +32,7 @@ Advised to always choose our words and ways to work wisely and respect our elder
 NCC(National Cadet Corps)<br>
 Lecture was given about the same and videos of officers training and marching at Delhi Bagah Border were shown and encouraged students to take part in that.
 ### 3:00pm-4:30pm
-CSE building tour , showed all software labs, interaction with mentors and classmates , exams pattern and got to know about mid semester and end semester exams.<br>
+CSE building tour , showed all software labs, interaction with mentors and classmates .<br>
 HOD OF CSE BRANCH- Dr. Kiran Jyoti greeted us.
 
 ## 🔗**DAY 2**<br>
@@ -64,7 +64,6 @@ Lunch Break🍽️
 Induction activities officially launched 🎉
 
 #### ✅ Skills Learned Today:
-
 Test-taking experience<br>
 Nutritional knowledge for wellness<br>
 Scholarship opportunities<br>
@@ -73,7 +72,7 @@ GitHub basics and markdown writing<br>
 ## 🔗**DAY 3**<br>
 *2 August 2025*<br>
 
-#### EXPERT LECTURES
+#### 🧑‍🏫EXPERT LECTURES
 ### 🕙9:00AM -11:00AM 
 #Dr. Jaswinder Singh Sir gave a unique and memorable session:<br>
 Blended mathematics with spirituality and God.<br>
@@ -93,7 +92,7 @@ Gave assignments on self realisation .
 *4 August 2025*<br>
 
 ### 🕥9:30Am-10:30AM
-#### Chemistry session by professor Rajvir kaur:
+#### 🧑‍🏫Chemistry session by professor Rajvir kaur:
 - Learnt about basic chemistry to be studied in the 1st year of engineering.
 - Learnt basic engineering concepts and got motivated to improve our skills.
 - Got to know about electrochemistry.
@@ -117,24 +116,24 @@ inspiring talk on learning from experience and doing things genuinely, not for f
 
 
 ### 🕥9:30Am-10:30AM
-####  English lecture by professor Astik Sharma:
+#### 🧑‍🏫 English lecture by professor Astik Sharma:
 - Introduction with classmates.
 - Asked everyone to describe themselves and asked our strengths and weaknesses.
 - Encouraged everyone to work for their communication skills.
 
 ### 🕦10:30AM- 11:30AM
-#### Maths lecture by professor Rajbir Kaur:<br>
+#### 🧑‍🏫Maths lecture by professor Rajbir Kaur:<br>
 Discussion about some previous class 12 maths topics like matrices , differentiation,differential equation.
 
 ### 🕦11:30AM- 12:30PM
-#### BEEE Lecture by prof. Ranvir Kaur:
+#### 🧑‍🏫BEEE Lecture by prof. Ranvir Kaur:
 introduction about the syllabus and some previous 12 class topics like semiconductors, load, voltage etc. and gave notes regarding the same. Discussion about the load in localities ,the reason for power cutting in areas. 
 
 ## 🔗**DAY 6**<br>
 *6 August 2025*<br>
 
 ### 🕥9:30Am-10:30AM
-#### BEEE Lecture by prof. Ranvir kaur:
+#### 🧑‍🏫BEEE Lecture by prof. Ranvir kaur:
 Gave lecture for the topics in the syllabus and notes were provided for the same.
 ### 🕦10:30AM- 11:30AM
 ### PEER TO PEER LECTURE:
@@ -163,7 +162,7 @@ Working on our limitations.
 Introduced various college facilities provided like dispensory, ambulance, bank, atm etc. and facilities provided in hostels.
 Introduced various socities and clubs .
 ### 🕥10:30AM-11:30AM
-#### Lecture by Dr. Amit Kamra(incharge of DMC):
+#### 📹Lecture by Dr. Amit Kamra(incharge of DMC):
 Shared how the club was formed.
 Explained how students can join.
 Discussed GNE’s growth in the field of digital marketing with student involvement.
@@ -186,7 +185,7 @@ Lecture was given by seniors on basics of c++ language and interacted with stude
 
 ## 🔗**DAY 8**<br>
 *8 August 2025*<br>
-ID CARD FORMATION <br>
+🪪 ID CARD FORMATION <br>
 Maths lecture was given by prof. Randhir Singh on partial differentiation..
 
 #### *THE INDUCTION PROGRAMME MADE ME REALISE THAT COLLEGE IS NOT ONLY ABOUT ACADEMICS BUT ALSO PERSONAL GROWTH..*
