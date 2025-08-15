@@ -27,7 +27,10 @@ Greeted all the students.
 - Guest of honor-Shri Ravinder Garg, chief engineer at municipal corporation Ldh.<br>
 Advised to always choose our words and ways to work wisely and respect our elders and not to forget to dtart our day by thanking the almighty.
 - Financial adviser - Mr. Ashok Singla.
-- #DT Parminder Singh →History → Face challenges and stick to your aim. Dream big. work hard 
+- #DT Parminder Singh →History → Face challenges and stick to your aim. Dream big. work hard
+#### INTRODUCTION ABOUT NCC 
+NCC(National Cadet Corps)<br>
+Lecture was given about the same and videos of officers training and marching at Delhi Bagah Border were shown and encouraged students to take part in that.
 ### 3:00pm-4:30pm
 CSE building tour , showed all software labs, interaction with mentors and classmates , exams pattern and got to know about mid semester and end semester exams.<br>
 HOD OF CSE BRANCH- Dr. Kiran Jyoti greeted us.
@@ -100,7 +103,7 @@ Gave assignments on self realisation .
 #### PEER TO PEER LECTURE :
 Learnt C++ basics, explored clubs, activities, and exams.
 
-### 🕦11:30AM- 12:30AM
+### 🕦11:30AM- 12:30PM
 LUNCH BREAK 🍽️
 
 ### 🕦12:30PM-3:30PM
@@ -114,15 +117,76 @@ inspiring talk on learning from experience and doing things genuinely, not for f
 
 
 ### 🕥9:30Am-10:30AM
+####  English lecture by professor Astik Sharma:
+- Introduction with classmates.
+- Asked everyone to describe themselves and asked our strengths and weaknesses.
+- Encouraged everyone to work for their communication skills.
+
 ### 🕦10:30AM- 11:30AM
+#### Maths lecture by professor Rajbir Kaur:<br>
+Discussion about some previous class 12 maths topics like matrices , differentiation,differential equation.
+
+### 🕦11:30AM- 12:30PM
+#### BEEE Lecture by prof. Ranvir Kaur:
+introduction about the syllabus and some previous 12 class topics like semiconductors, load, voltage etc. and gave notes regarding the same. Discussion about the load in localities ,the reason for power cutting in areas. 
 
 ## 🔗**DAY 6**<br>
 *6 August 2025*<br>
 
+### 🕥9:30Am-10:30AM
+#### BEEE Lecture by prof. Ranvir kaur:
+Gave lecture for the topics in the syllabus and notes were provided for the same.
+### 🕦10:30AM- 11:30AM
+### PEER TO PEER LECTURE:
+Lecture was given by seniors about the college and told basics of c++ language .
+### 🕦11:30AM- 12:30PM
+LUNCH BREAK 🍽️
+### 🕦12:30PM- 2:00PM
+Lecture by the chief guest and trustee of the gndec college. 
+He interacted with students and gave them some valuable advises on career . 
+### 🕦2:00PM-4:00PM 
+#### Lecture by Dr. Lakhvir khanna (incharge of CML):
+Introduced students to CML (Centre for Multifaceted Learning).
+CML helps students build important life skills like communication and technology-related skills.
+It conduct several workshops for students to learn new things and practice on building their skills.<br>
+Students were also introduced to the SWAYAM ,NPETL portal, which offers many learning opportunities for students to gain more knowledge from the professors from seven elite IIT's. With this students can earn certificates which can be useful for further internships and jobs..
 
 ## 🔗**DAY 7**<br>
 *7 August 2025*<br>
 
+### 🕥9:30AM-10:30AM
+Lecture by Dr. Parminder Singh(Dean student welfare):
+Spoke about making the most of our four years by:
+Enjoying the journey by participating in other activities which will helpl in skill development. 
+Focusing on our goals.
+Working on our limitations.
+Introduced various college facilities provided like dispensory, ambulance, bank, atm etc. and facilities provided in hostels.
+Introduced various socities and clubs .
+### 🕥10:30AM-11:30AM
+#### Lecture by Dr. Amit Kamra(incharge of DMC):
+Shared how the club was formed.
+Explained how students can join.
+Discussed GNE’s growth in the field of digital marketing with student involvement.
+Videos made by students was also shown which got positions in various competetion appreciating theier efforts and encouraging others to join.
+Announced a competition of making reels and videos on the GNE induction program . 
+### 🕥11:30AM-12:30PM
+Lecture was given by Dr. Randhir singh on "CONDUCT OF EXAMINATION". 
+He told the exam pattern , the mid semester and end semester examinations and about the compulsion of having 75% attendence in every subject else students who fail to do so will be fined with 15000 rupee per subject they have been detained. He also told about the makeup exam in which if the students get failed in theory exam can reapear if they have scored more than 60% in their internal exams.
+### 🕥12:30PM-1:30PM
+LUNCH BREAK🍽️
+
+### 🕥1:30PM-2:30PM
+#### Chemistry lecture by prof. Rajvir Kaur:
+Introduction about the syllabus and advised all the students to take part in activities also along with studies .
+
+### 🕥2:30PM-3:30PM
+#### PEER TO PEER SESSION:
+Lecture was given by seniors on basics of c++ language and interacted with students .
+
 
 ## 🔗**DAY 8**<br>
 *8 August 2025*<br>
+ID CARD FORMATION <br>
+Maths lecture was given by prof. Randhir Singh on partial differentiation..
+
+#### *THE INDUCTION PROGRAMME MADE ME REALISE THAT COLLEGE IS NOT ONLY ABOUT ACADEMICS BUT ALSO PERSONAL GROWTH..*
